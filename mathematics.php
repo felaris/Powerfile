@@ -1,3 +1,4 @@
+
 <?php
 ?>
 
@@ -5,9 +6,9 @@
 
 <html lang="en">
 <head>
-<title>Powerfile | Computer Science </title >
+<title>Powerfile | Mathematics </title >
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Computer Science is the study of computers and computational systems. ... Although knowing how to program is essential to the study of computer science, it is only one element of the field. Computer scientists design and analyze algorithms to solve programs and study the performance of computer hardware and software.">
+<meta name="description" content=" Mathematics is an abstract science of number, quantity, and space, either as abstract concepts">
 <meta name="robots" content="noindex,nofollow">
 
 
@@ -145,7 +146,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
                   <div class="blog_details">
                      
                      <p>
-                     Computer Science is the study of computers and computational systems.Although knowing how to program is essential to the study of computer science, it is only one element of the field. Computer scientists design and analyze algorithms to solve programs and study the performance of computer hardware and software.
+                     Mathematics is an abstract science of number, quantity, and space, either as abstract concepts.
                      </p>
                      
                     
@@ -154,8 +155,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
                        <ul class="list cat-list">
                             <p style="padding-top: 2em;font-size: 25px;">YEAR 1  </p>
                            
-                            <li ><a href="https://drive.google.com/drive/folders/1D6wZZokUCP97Ttef1Fx-MHZPLChusxuj?usp=sharing">First Semester</a></li>
-                            <li ><a href="https://drive.google.com/drive/folders/1PFNoaES6EEXfV_cWGy_mEqj0RR3riiTy?usp=sharing">Second Semester</a></li>
+                            <li ><a href="https://drive.google.com/drive/folders/1ZYNtwi6k_IJ-dOBz2pPEv6wV0GfxaNRU?usp=sharing">First Semester</a></li>
+                            <li ><a href="https://drive.google.com/drive/folders/1Zwz8UEvMORcwAUoGMgffYnOC-McTI8ED?usp=sharing">Second Semester</a></li>
                             
                             </ul>
                              
@@ -166,8 +167,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 
                      <ul class="list cat-list">
                       <p style="padding-top: 2em;font-size: 25px;">YEAR 2 </p>
-                             <li ><a href="https://drive.google.com/drive/folders/1aE-UQuqdilIF4udWQcMX0Nsfyq_4PYwT?usp=sharing">First Semester</a></li>
-                            <li ><a href="https://drive.google.com/drive/folders/1CuiYeG1FQSPyFMI4Bj-VmU0c2wM7TYQ7?usp=sharing">Second Semester</a></li>
+                             <li ><a href="https://drive.google.com/drive/folders/10OmngskWc3wU4V0L0ZmAOI_6RO4L0pI4?usp=sharing">First Semester</a></li>
+                            <li ><a href="https://drive.google.com/drive/folders/1lbzNJS35ATguaZYFwOVy64MOhBB4tuFe?usp=sharing">Second Semester</a></li>
                     
                      </ul>
 
@@ -178,8 +179,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
                      <hr>
                      <p style="padding-top: 2em;font-size: 25px;">YEAR 3</h1>
                      <ul class="list cat-list">
-                     <li ><a href="https://drive.google.com/drive/folders/1v1dovw8jeC4YoqQGW3PaC-HoRC0q-EMq?usp=sharing"> First Semester</a></li>
-                     <li ><a href="https://drive.google.com/drive/folders/1bOZijQhlSjSI71aVDT8EiOhuzEfyfUyQ?usp=sharing">Second Semester</a></li>
+                     <li ><a href="https://drive.google.com/drive/folders/1G14vY8-4E-4ObSkaoRrDqUeCrbeuosnB?usp=sharing"> First Semester</a></li>
+                     <li ><a href="https://drive.google.com/drive/folders/14KqIs0UrOITSDnR9PEXIFzRWx5v5xUvb?usp=sharing">Second Semester</a></li>
                     
                      </ul>
 
@@ -190,8 +191,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
                      <hr>
                      <p style="padding-top: 2em;font-size: 25px;">YEAR 4 </h1>
                      <ul class="list cat-list">
-                     <li ><a href="https://drive.google.com/drive/folders/1psf5vUQ0LOfG5kiT0Tu1UG1SlPwumrzb?usp=sharing"> First Semester</a></li>
-                     <li ><a href="https://drive.google.com/drive/folders/1psf5vUQ0LOfG5kiT0Tu1UG1SlPwumrzb?usp=sharing">Second Semester</a></li>
+                     <li ><a href="https://drive.google.com/drive/folders/1R1YD2k418dedwq2qaUHWCxPFOvGE23l_?usp=sharing"> First Semester</a></li>
+                     <li ><a href="https://drive.google.com/drive/folders/1OKgEioDKhtCTRYh0zvm97OShdu5pHV3F?usp=sharing">Second Semester</a></li>
                           
                      </ul>
 
